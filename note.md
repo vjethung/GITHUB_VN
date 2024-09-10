@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 - git init 
@@ -18,3 +20,4 @@ Conflict
 - git checkout -b {branch name}
 - git merge {branch}
 - git branch -d {branch name}
+- git push
