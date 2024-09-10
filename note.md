@@ -14,3 +14,4 @@ Branch
 - git logg --oneline
 - git checkout {branch name}
 - git branch
+- git checkout -b {branch name}
