@@ -8,3 +8,4 @@ Repository (Repo)
 - git add
 - git add .
 - git reset
+- git commit
