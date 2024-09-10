@@ -1,6 +1,7 @@
 # Terms
 
 Repository (Repo)
+Branch
 
 # Commands
 - git init 
@@ -9,3 +10,7 @@ Repository (Repo)
 - git add .
 - git reset
 - git commit
+- git log
+- git logg --oneline
+- git checkout {branch name}
+- git branch
